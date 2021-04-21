@@ -4,7 +4,7 @@ Vamstar Test
 ## URL = http://localhost:8000/handler
 Admin user
 
-usernmae : admin
+username : admin
 password : password
 
-## Check database for the creation of the models by logggin in with admin
+## Check database for the creation of the models by logging in with admin
